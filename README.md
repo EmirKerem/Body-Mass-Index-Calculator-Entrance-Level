@@ -15,6 +15,7 @@ This project is a simple Java application that calculates the Body Mass Index (B
    git clone https://github.com/your_username/project_name.git
 
 2- Run the program: Compile and run the Java file.
+
 -javac Main.java
 
 -java Main
