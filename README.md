@@ -16,6 +16,7 @@ This project is a simple Java application that calculates the Body Mass Index (B
 
 2- Run the program: Compile and run the Java file.
 -javac Main.java
+
 -java Main
 
 3-Input your data: After entering your weight (kg) and height (m), the program will calculate and display your BMI.
@@ -27,7 +28,9 @@ The BMI is calculated using the following formula:
 
 5-Example:
 Please enter your weight: 70
+
 Please enter your height in meters: 1.75
+
 Your Body Mass Index (BMI) = 22.86
 
 6-Requirements:
